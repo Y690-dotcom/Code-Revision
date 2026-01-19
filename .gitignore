@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.java
+*.cpp
+*.py
+*.txt
+*.json
